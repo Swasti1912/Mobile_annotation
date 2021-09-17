@@ -1,0 +1,26 @@
+<annotation>
+	<folder>mobile</folder>
+	<filename>mobile_phone_79.jpg</filename>
+	<path>C:\Users\dell\Pictures\mobile\mobile_phone_79.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>409</width>
+		<height>641</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>mobile</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>120</xmin>
+			<ymin>142</ymin>
+			<xmax>279</xmax>
+			<ymax>483</ymax>
+		</bndbox>
+	</object>
+</annotation>
